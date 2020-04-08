@@ -1,0 +1,6 @@
+matrix: Identity keys:
+  - User:        @keika:matrix.org
+  - Device ID:   MKCWYVLAMT
+  - Device key:  jzW1 E3Di SBP1 k4pI 4Epn Lisi 5v4U idoR k4dI UvFu LuU
+  - Device ID:   WGGSJUVXZN
+  - Device key:  VNJr 0HDQ pP5v 7RA0 ePrg yvRv GdO5 dyR/ OYCJ G4Ct KOY
